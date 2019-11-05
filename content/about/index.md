@@ -27,6 +27,7 @@ date: 2019-02-21 19:00:24
 
 ## Experiences
 
+- 2019年万向区块链黑客松 二等奖
 - 2018年美国大学生数学建模竞赛 一等奖 [证书](http://www.comap-math.com/mcm/2018Certs/91397.pdf)
 - 2018年第九届全国服务外包创新大赛 [三等奖](http://www.fwwb.org.cn/news/show/225) 
 - 海量数据存储课程大作业：编写[爬虫]((https://github.com/yjhmelody/page-links-crawl))爬取了全网链接和Wiki站内链接，并使用 Scala 和 Spark 编写[PageRank 算法](https://github.com/yjhmelody/Spark-PageRank)分别进行网页排名
@@ -46,6 +47,8 @@ date: 2019-02-21 19:00:24
 - 编程语言理论(PLT)
 - 数据库原理/分布式原理
 - 初级日语
+
+（太懒了，还有精神上的原因一直没有很好地实施）
 
 ## Professional Skills
 
@@ -75,7 +78,10 @@ date: 2019-02-21 19:00:24
 - intellij idea
 - intellij Clion
 
+不太会emacs和vim。
+
 接触过的编程语言（部分）：
+
 - C
 - C++
 - Rust
@@ -93,7 +99,7 @@ date: 2019-02-21 19:00:24
 - Matlab
 
 泛编程语言使用者，关注类型系统和形式语义。
-限于精力，有些熟练度和深度不够，仅仅是入门水准。简单了解过一些 DSL 语言，简单了解 Webassembly、Java Bytecode、Lua Bytecode、Python Bytecode。
+简单了解 Webassembly、Java Bytecode、Lua Bytecode、Python Bytecode。
 
 接触过的工具（部分）：
 
@@ -102,11 +108,12 @@ date: 2019-02-21 19:00:24
 
 接触过的类库和框架（部分）：
 
+- Rust: So many libs
 - JS: Express/Echarts/Request/Lodash/Ramda/JQuery/JsDoc
 - Python: Requests/Flask/numpy/pandas/matplotlib/scikit-learn/Keras
 - ...
 
 接触过的系统和平台（部分）：
 
-- Mysql/Redis/Spark/DolphinDB/Kafka/ClickHouse
+- Mysql/Redis/Spark/DolphinDB/Kafka/ClickHouse/Substrate
 - ...
